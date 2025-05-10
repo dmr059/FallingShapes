@@ -2,7 +2,7 @@
 
 An interactive game built with SFML in C++. Various colored shapes fall from the top of the window, and the player earns points by clicking on them before they reach the bottom.
 
-# Game Concept
+## Game Concept
 
 Shapes of different sizes and colors fall from the top of the screen.
 
@@ -27,7 +27,7 @@ Each color represents a different point value:
   ![FallingShapes](https://github.com/user-attachments/assets/51dfa2d7-e285-4f2d-afe4-6decad101855)
 
 
-# Features
+## Features
 
  - Basic Game Engine wrapper with a modular structure.
 
@@ -39,13 +39,13 @@ Each color represents a different point value:
 
  - Fixed Framerate for consistent performance.
 
-# Requirements
+## Requirements
 
 - C++17 or higher
 
 - SFML 2.5+
 
-# Development Notes and Goals
+## Development Notes and Goals
 
 This project really challenged me to think modularly while designing the Game class and structuring the event-handling system. I enjoyed experimenting with fonts for the UI and randomizing shape attributes like size and color.
 
